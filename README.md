@@ -10,7 +10,8 @@ Hier Bevorzugt Weißblech Fischdose (tinplate Fish Metal Can, magnetical) von Sa
 
 Erstaunlicherweise sind Fischdosen in Deutschland weitgehend aus Leichtmetall vermutl. Aluminium Blech hergestellt
 Für ein Feriensommerprojekt sollen jedoch die Rohre (s.u.) mit der Dose verlötet werden (soft-soldering)
-
+   (Ein Verkleben mit 2K-Epoxyd-Harz oder Silion ist jedoch auch möglich s.u. Punkt 3.)
+   
 Verschiedene Möglichkeiten einen Antrieb zu realisieren:
 
 1. Rohre Spiralförmig biegen (bend brass pipe in circle 2-3 times over roundwood)   
